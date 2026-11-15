@@ -1,0 +1,5 @@
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.6
+numpy>=1.21
+tqdm>=4.62

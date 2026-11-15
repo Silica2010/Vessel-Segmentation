@@ -1,0 +1,6 @@
+{
+  "pos_weight": 8,
+  "w_bce": 1.0,
+  "w_dice": 1.0,
+  "threshold": 0.5
+}

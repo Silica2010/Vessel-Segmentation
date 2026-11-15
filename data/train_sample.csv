@@ -1,0 +1,5 @@
+image_path,mask_path
+images/01_dr.jpg,masks/01_dr.png
+images/02_dr.jpg,masks/02_dr.png
+images/03_hrf.jpg,masks/03_hrf.png
+images/04_chase.jpg,masks/04_chase.png

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pth
+runs/
+data/images/
+data/masks/
+vessel_mask.png
+.DS_Store
+Thumbs.db
